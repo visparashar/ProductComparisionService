@@ -1,0 +1,12 @@
+com.relayr.productcomparisonservice
+com.relayr.productcomparisonservice.config
+com.relayr.productcomparisonservice.controller
+com.relayr.productcomparisonservice.datasource.processor
+com.relayr.productcomparisonservice.datasource.reader
+com.relayr.productcomparisonservice.exceptions
+com.relayr.productcomparisonservice.model
+com.relayr.productcomparisonservice.pojo
+com.relayr.productcomparisonservice.repository
+com.relayr.productcomparisonservice.service
+com.relayr.productcomparisonservice.service.impl
+com.relayr.productcomparisonservice.util
